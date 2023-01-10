@@ -1,29 +1,26 @@
-# buscar_clima
+## Projeto Buscar Clima
+O projeto **Buscar Clima** foi desenvolvido para estudo por mim, Lucas Bargas, com base em um layout disponibilizado pelo Matheus Battisti, do hora de codar, no youtube, onde o mesmo desenvolveu este projeto com Vanilla Javascript. Para estudo decidi fazer este projeto com Vuejs e toda a estilização com SCSS.
 
-This template should help get you started developing with Vue 3 in Vite.
+### Link para visualizar o projeto
+<https://buscarclima-lbs.vercel.app/>
 
-## Recommended IDE Setup
+### Por que fiz este projeto?
+O Vue JS mostrou ser para mim um framework com uma curva de aprendizado muito rápida. Finalizei um curso sobre o framework recentemente e por isso estou me empenhando em prática-lo com aplicações que encontro na web.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Documentação das API'S utilizadas
+* Unsplash Developers: <https://source.unsplash.com>;
+* OpenWeather API: <https://openweathermap.org/api>.
 
-## Customize configuration
+### Tecnologias utilizadas
+#### Front end
+* Vuejs;
+* SCSS.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Prints do App (Versões Desktop e Mobile)
 
-## Project Setup
+#### Página inicial - Primeiro estado do projeto
+<img alt="Página inicial - Primeiro estado do projeto" src="https://i.ibb.co/TR2XSVs/weather-search-homev1.png">
 
-```sh
-npm install
-```
+#### Página inicial - Segundo estado do projeto após uma pesquisa
+<img alt="Página inicial - Segundo estado do projeto após uma pesquisa" src="https://i.ibb.co/kgVbpGr/weather-search-homev2.pngg">
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
