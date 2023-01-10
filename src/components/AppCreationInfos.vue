@@ -24,7 +24,7 @@
       , em uma aula no Youtube.
     </p>
     <a
-      href="https://github.com/LucasBargas/todo_list"
+      href="https://github.com/LucasBargas/weather_search"
       target="_blank"
       rel="noopener noreferrer"
     >
