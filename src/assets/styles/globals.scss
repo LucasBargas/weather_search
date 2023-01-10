@@ -1,0 +1,43 @@
+@use './variables.scss';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  color: variables.$light-color;
+}
+
+html {
+  font-size: 16px;
+
+  @media (max-width: 320px) {
+    font-size: 14px;
+  }
+}
+
+body {
+  background: linear-gradient(180deg, rgba(89, 76, 238, 1) 0%, variables.$secondary-color 100%);
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
+  ul, li {
+    list-style: none;
+  }
+
+  button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+  }
+}
