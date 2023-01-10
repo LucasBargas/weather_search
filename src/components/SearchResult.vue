@@ -9,11 +9,6 @@ const props = defineProps({
     <h2>
       <i class="fa-solid fa-location-dot"></i>
       <span class="city-name">{{ props.dataWeather.name }}</span>
-      <!-- <img
-        class="city-flag"
-        :src="'https://countryflagsapi.com/png/' + props.dataWeather.sys.country"
-        :alt="'Bandeira - ' + props.dataWeather.name"
-      /> -->
     </h2>
     <p class="temp">
       <span>{{ Math.round(props.dataWeather.main.temp) }}&deg;C</span>
