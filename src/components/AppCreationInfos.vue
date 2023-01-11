@@ -38,17 +38,21 @@
 
 .creation-infos {
   display: grid;
-  gap: .5rem;
-  padding-top: 1.25rem;
+  gap: .625rem;
+  padding: 1.25rem;
   max-width: 700px;
   width: 100%;
   margin: 0 auto;
   text-shadow: 2px 0px 5px rgba(51,51,51,0.45);
   text-align: center;
-  line-height: 1.5rem;
+  line-height: 1.625rem;
 
   a {
     font-weight: 700;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 </style>
