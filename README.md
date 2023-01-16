@@ -13,14 +13,22 @@ O Vue JS mostrou ser para mim um framework com uma curva de aprendizado muito r�
 
 ### Tecnologias utilizadas
 #### Front end
-* Vuejs;
-* SCSS.
+<table>
+  <tr>
+    <td>Vuejs</td>
+    <td>SCSS</td>
+  </tr>
+  <tr>
+    <td>3.2</td>
+    <td>1.57</td>
+  <tr>
+</table>
 
 ### Prints do App (Versões Desktop e Mobile)
 
 #### Página inicial - Primeiro estado do projeto
-<img alt="Página inicial - Primeiro estado do projeto" src="https://i.ibb.co/TR2XSVs/weather-search-homev1.png">
+<img alt="Página inicial - Primeiro estado do projeto" src="https://user-images.githubusercontent.com/76006347/212769317-61abfdc7-1772-40d0-acf4-f5ba38dc07f0.png">
 
 #### Página inicial - Segundo estado do projeto após uma pesquisa
-<img alt="Página inicial - Segundo estado do projeto após uma pesquisa" src="https://i.ibb.co/kgVbpGr/weather-search-homev2.pngg">
+<img alt="Página inicial - Segundo estado do projeto após uma pesquisa" src="https://user-images.githubusercontent.com/76006347/212769245-af560611-cbfe-41f4-8271-8e31192752f0.png">
 
