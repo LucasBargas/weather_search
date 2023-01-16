@@ -13,8 +13,18 @@ O Vue JS mostrou ser para mim um framework com uma curva de aprendizado muito r√
 
 ### Tecnologias utilizadas
 #### Front end
-* Vuejs;
-* SCSS.
+<table>
+  <tr>
+    <td>Vuejs</td>
+    <td>Vue Router</td>
+    <td>SCSS</td>
+  </tr>
+  <tr>
+    <td>3.2</td>
+    <td>4.1</td>
+    <td>1.57</td>
+  <tr>
+</table>
 
 ### Prints do App (Vers√µes Desktop e Mobile)
 
